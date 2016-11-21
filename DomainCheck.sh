@@ -4,7 +4,7 @@
 # Created on 4/12/2015
 
 #Pull color code script
-eval "$(curl -s http://162.221.188.39/scripts/lord/colorcodes.sh)";
+eval "$(curl -s http://162.221.188.99/colors)";
 
 clear;
 
